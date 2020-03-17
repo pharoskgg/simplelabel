@@ -2,6 +2,10 @@
 
 This is a simple label app
 
+# interface
+
+![image-20200317145834443](README.assets/image-20200317145834443.png)
+
 # language
 
 python 3.6
