@@ -1,4 +1,4 @@
-# simplelabel
+# simple label
 
 This is a simple label app
 
