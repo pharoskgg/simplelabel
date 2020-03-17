@@ -1,4 +1,8 @@
-# simple label
+#中文介绍
+
+https://www.jianshu.com/p/ba7654464b01
+
+# simplelabel
 
 This is a simple label app
 
@@ -14,6 +18,3 @@ python 3.6
 
 pyqt5、os、sys
 
-# 中文介绍
-
-https://www.jianshu.com/p/ba7654464b01
